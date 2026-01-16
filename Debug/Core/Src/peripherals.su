@@ -1,0 +1,5 @@
+../Core/Src/peripherals.c:10:6:Peripherals_UpdateLivesLEDs	16	static
+../Core/Src/peripherals.c:19:6:Peripherals_PlayTone	24	static
+../Core/Src/peripherals.c:33:6:Peripherals_CheckBuzzerTimeout	8	static
+../Core/Src/peripherals.c:40:6:Peripherals_Beep	16	static
+../Core/Src/peripherals.c:46:10:Peripherals_ReadJoystick	8	static

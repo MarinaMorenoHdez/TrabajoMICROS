@@ -1,0 +1,10 @@
+../Core/Src/st7796_lcd.c:13:13:ST7796_Cmd	1
+../Core/Src/st7796_lcd.c:23:13:ST7796_Data	1
+../Core/Src/st7796_lcd.c:33:6:ST7796_SetWindow	1
+../Core/Src/st7796_lcd.c:53:6:ST7796_Init	1
+../Core/Src/st7796_lcd.c:76:6:ST7796_Fill	2
+../Core/Src/st7796_lcd.c:87:6:ST7796_DrawRect	4
+../Core/Src/st7796_lcd.c:99:6:ST7796_DrawBitmap	4
+../Core/Src/st7796_lcd.c:112:6:ST7796_DrawChar	10
+../Core/Src/st7796_lcd.c:136:6:ST7796_WriteString	2
+../Core/Src/st7796_lcd.c:144:6:ST7796_DrawBitmapZoom	4
