@@ -8,12 +8,12 @@ El objetivo es defender la Tierra de una invasión alienígena progresiva. El ju
 
 ### Características Principales:
 * **Sistema de Menú Interactivo:** Selección de nave con efectos visuales de zoom.
-* **3 Tipos de Naves:** Cada una con características visuales únicas (Normal, Delta, Interceptor).
+* **3 Tipos de Naves:** Cada una con características visuales y de juego únicas (Normal, Delta, Interceptor).
 * **Mecánica de Calentamiento:** El arma se bloquea si disparas demasiado rápido ("Overheat").
 * **Sistema de Oleadas (Waves):**
-    * **Oleada 1:** Entrenamiento. Velocidad normal.
-    * **Oleada 2:** Aumento de velocidad. Los enemigos Morados disparan.
-    * **Oleada 3:** Velocidad alta. Los enemigos Verdes y Morados disparan coordinados.
+    * **Oleada 1:** Velocidad normal. Fuego normal.
+    * **Oleada 2:** Aumento de velocidad. Fuego alto.
+    * **Oleada 3:** Velocidad alta. Fuego muy alto.
 * **Hardware Feedback:** Vidas representadas con LEDs físicos y sonido mediante Buzzer pasivo (PWM).
 
 ---
@@ -47,6 +47,15 @@ Este proyecto ha sido desarrollado en equipo, dividiendo las tareas de ingenier�
 * **Estados de Juego:** Creación y lógica de las pantallas de **VICTORIA** y **DERROTA (Game Over)**.
 * **Mejoras Visuales:** Rediseño del menú de selección de nave (Efecto Zoom dinámico y optimización de renderizado).
 * **Documentación:** Elaboración de este README.
+
+### 👩‍💻 Sergio Llana - Optimización de código y Gameplay
+* **Refactorización y Modularidad:** Migración del código monolítico (`main.c`) a una arquitectura modular profesional (`game_engine.c`, `sprites.c`, `peripherals.c`), eliminando "superfunciones" y mejorando la mantenibilidad.
+* **Game Engine:** Implementación de lógica limpia, organizada en funciones y ordenada.
+* **Oleadas enemigas con dificultad aumentada progresiva. Mayor velocidad y mayor fuego enemigo.
+* **Propiedades In-Game diferenciadas según el tipo de nave.
+* **Interfaz (HUD) Avanzada:** Desarrollo de la barra de **sobrecalentamiento dinámica** y visualización del **SCORE** en tiempo real y en pantallas finales.
+* **Mecánicas Nuevas:** Implementación del sistema de **Escudo de Energía** (Power-up aleatorio con visualización ovalada).
+* **Audio Dinámico:** Composición e implementación de melodías de **Victoria** y **Derrota** sincronizadas con el estado del juego.
 
 ---
 
