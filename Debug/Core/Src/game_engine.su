@@ -1,5 +1,5 @@
-../Core/Src/game_engine.c:51:13:InicializarMarcianos	24	static
-../Core/Src/game_engine.c:77:13:ResetJuego	16	static
-../Core/Src/game_engine.c:110:6:Game_Init	8	static
-../Core/Src/game_engine.c:117:6:Game_TriggerFire	4	static
-../Core/Src/game_engine.c:121:6:Game_Update	168	static
+../Core/Src/game_engine.c:89:13:InicializarMarcianos	16	static
+../Core/Src/game_engine.c:111:13:ResetJuego	16	static
+../Core/Src/game_engine.c:154:6:Game_Init	8	static
+../Core/Src/game_engine.c:162:6:Game_TriggerFire	0	static
+../Core/Src/game_engine.c:166:6:Game_Update	136	static
