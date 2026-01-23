@@ -72,6 +72,10 @@ Este proyecto ha sido desarrollado en equipo, dividiendo las tareas de ingenier�
 ---
 
 ## 📸 Galería
+![WhatsApp Image 2026-01-22 at 16 10 01 (5)](https://github.com/user-attachments/assets/fac5b5e3-c3a7-44fa-beb1-0407d2e9de61)
+![WhatsApp Image 2026-01-22 at 16 10 01 (4)](https://github.com/user-attachments/assets/3d5b7205-336a-441b-b6cc-060544432e74)
+![WhatsApp Image 2026-01-22 at 16 10 00 (5)](https://github.com/user-attachments/assets/c404a35f-6d01-40a7-9b82-b1a3fe8d4722)
+![WhatsApp Image 2026-01-22 at 16 10 00 (4)](https://github.com/user-attachments/assets/5916328b-2c3c-4a5b-9053-2da374d3b14f)
 
 *Proyecto realizado para la asignatura de Sistemas Electrónicos Digitales.*
 
