@@ -4,7 +4,7 @@ Bienvenido a nuestra versión del clásico **Space Invaders**, desarrollada desd
 
 ## 🎮 Descripción del Juego
 
-El objetivo es defender la Tierra de una invasión alienígena progresiva. El jugador controla una nave espacial que puede moverse lateralmente y disparar proyectiles, gestionando el calentamiento del arma y esquivando el fuego enemigo.
+El objetivo es defender la Tierra de una invasión alienígena progresiva. El jugador controla una nave espacial seleccionable que puede moverse lateralmente y disparar proyectiles, gestionando el calentamiento del arma y esquivando el fuego enemigo.
 
 ### Características Principales:
 * **Sistema de Menú Interactivo:** Selección de nave con efectos visuales de zoom.
